@@ -1,0 +1,27 @@
+#adding {
+    display: inline-flex;
+    background-color: grey;
+}
+
+#add{
+    list-style: none;
+    width: 300px;
+    margin: 50px;
+}
+
+#add li{
+    display: flex;
+    align-items: center;
+}
+
+#add input{
+    align-items: left;
+}
+
+#message{
+    background-color: blue;
+    width: 800px;
+    color: white;
+    font-style: normal;
+
+}
